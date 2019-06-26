@@ -400,10 +400,29 @@ command [-options] [parameter]
 > 提示：有关 ssh 配置信息都保存在用户的 home 目录下的 .ssh 目录下
 
 1. 免密登录
+
    - 配置公钥
      执行 ssh-keygen 即可生成 ssh 钥匙，一路回车即可
    - 上传公钥到服务器
      执行 ssh-copy-id -p port user@remote，可以让远程服务器记住我们的公钥
+
+2. 配置别名
+
+   - 在.ssh 目录中新建 config 文件
+
+   - 在 config 文件里添加如下内容
+
+     ```
+     Host 别名
+     HostName ip 地址 
+     User 远程计算机用户名
+     Port 端口
+     
+     ```
+
+   - 之后就可以用 ssh 别名  直接登录到远程计算机，scp 也可以用别名
+
+   
 
 ### linux 快捷键 
 
