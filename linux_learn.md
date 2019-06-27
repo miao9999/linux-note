@@ -819,7 +819,48 @@ command [-options] [parameter]
    tar -jxvf 打包文件.tar.bz2 -C 目标路径
    ```
 
-   
+
+
+#### 软件安装
+
+1. 通过 apt 安装/卸载软件
+
+   - apt 是 advanced packing tool，是 Linux 下的一款安装包管理工具
+   - 可以在终端中方便的安装/卸载/更新软件包
+
+   命令格式如下：
+
+   ```
+   1. 安装软件
+   sudo apt install 软件包
+   2. 卸载软件
+   sudo apt remove 软件名
+   3. 更新已安装的包
+   sudo apt upgrede
+   ```
+
+2. 配置软件源
+
+   > - 如果希望在 ubuntu 中安装软件，更加快捷，可以通过设置镜像源，选择一访问网速更快的服务器来提供软件下载/安装服务
+   > - 提示：更换服务器之后，需要一个相对较长时间的更新过程，需要耐心等待，更新完成后，再安装软件 都会从新设置的服务器下载软件了
+   > - 所谓的镜像源，就是所有服务器的内容是相同的(镜像)，但是根据所在的位置不同，国内服务器通常速度更快一些
+
+   步骤：
+
+   1. 打开 softwear & updates
+
+   2. ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/设置镜像源1.png)
+
+      
+
+      ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/设置镜像源2.png)
+
+
+      ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/设置镜像源3.png)
+
+      
+
+   3. 然后选择最佳镜像，重新载入就可以了
 
 ### linux 快捷键
 
