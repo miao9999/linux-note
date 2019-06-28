@@ -459,7 +459,7 @@ command [-options] [parameter]
    - 时间
    - 名称
 
-   ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/权限说明.png)
+   ![](https://github.com/miao9999/linux-note/blob/master/linux_learn_pic/%E6%9D%83%E9%99%90%E8%AF%B4%E6%98%8E.png)
 
 4. chmod 简单使用
 
@@ -612,7 +612,7 @@ command [-options] [parameter]
 
    - exit 示意图如下
 
-     ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/切换用户退出示意图.png)
+     ![](https://github.com/miao9999/linux-note/blob/master/linux_learn_pic/%E5%88%87%E6%8D%A2%E7%94%A8%E6%88%B7%E9%80%80%E5%87%BA%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
 7. 修改文件权限
 
@@ -637,10 +637,10 @@ command [-options] [parameter]
 
    ***chmod 在设置权限时，可以简单地使用三个数字分别对应拥有者 | 组 | 其他用户的权限***
 
-   ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/权限对应的数字.png)
+   ![](https://github.com/miao9999/linux-note/blob/master/linux_learn_pic/%E6%9D%83%E9%99%90%E5%AF%B9%E5%BA%94%E7%9A%84%E6%95%B0%E5%AD%97.png)
 
 
-   ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/权限对应的数字组合.png)
+   ![](https://github.com/miao9999/linux-note/blob/master/linux_learn_pic/%E6%9D%83%E9%99%90%E5%AF%B9%E5%BA%94%E7%9A%84%E6%95%B0%E5%AD%97%E7%BB%84%E5%90%88.png)
 
    
 
@@ -726,7 +726,7 @@ command [-options] [parameter]
 
 3. 软链接和硬链接的原理
 
-   ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/软硬链接示意图.png)
+   ![](https://github.com/miao9999/linux-note/blob/master/linux_learn_pic/%E8%BD%AF%E7%A1%AC%E9%93%BE%E6%8E%A5%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
    
 
@@ -849,14 +849,14 @@ command [-options] [parameter]
 
    1. 打开 softwear & updates
 
-   2. ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/设置镜像源1.png)
+   2. ![](https://github.com/miao9999/linux-note/blob/master/linux_learn_pic/%E8%AE%BE%E7%BD%AE%E9%95%9C%E5%83%8F%E6%BA%901.png)
 
       
 
-      ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/设置镜像源2.png)
+      ![](https://github.com/miao9999/linux-note/blob/master/linux_learn_pic/%E8%AE%BE%E7%BD%AE%E9%95%9C%E5%83%8F%E6%BA%902.png)
 
 
-      ![](/Users/limiao/personal/notebook/linux-note/linux_learn_pic/设置镜像源3.png)
+      ![](https://github.com/miao9999/linux-note/blob/master/linux_learn_pic/%E8%AE%BE%E7%BD%AE%E9%95%9C%E5%83%8F%E6%BA%903.png)
 
       
 
